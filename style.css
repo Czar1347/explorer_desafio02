@@ -55,9 +55,11 @@ body {
   
     display: flex;
     justify-content: space-between;
+    align-items: center;
   }
 
   h1 {
+    border: 1px solid red;
     font-size: 49px;
     line-height: 56px;
     color: #1f1534;
